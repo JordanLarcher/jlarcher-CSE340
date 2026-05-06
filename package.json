@@ -1,0 +1,23 @@
+{
+  "name": "jlarcher-cse340",
+  "version": "1.0.0",
+  "description": "CSE340 Web Backend Development course",
+  "homepage": "https://github.com/JordanLarcher/jlarcher-CSE340#readme",
+  "bugs": {
+    "url": "https://github.com/JordanLarcher/jlarcher-CSE340/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanLarcher/jlarcher-CSE340.git"
+  },
+  "license": "ISC",
+  "author": "jordan larcher",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
